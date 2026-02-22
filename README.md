@@ -6,7 +6,7 @@ O app permite:
 - Definir o **nome do áudio**
 - Escolher a **pasta onde o arquivo será salvo**
 - **Gravar**, **Pausar / Continuar** e **Finalizar**
-- Gerar arquivos `.wav .mp3`
+- Gerar arquivos `.wav` `.mp3`
 - Empacotar como executável com **PyInstaller**
 - (Opcional) Transcrever o áudio com **Whisper**
 
