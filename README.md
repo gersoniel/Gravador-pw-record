@@ -33,3 +33,4 @@ O app permite:
 ### Pacotes do sistema
 ```bash
 sudo apt install python3 python3-tk pipewire
+sudo apt install ffmpeg
